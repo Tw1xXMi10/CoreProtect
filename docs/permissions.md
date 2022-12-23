@@ -9,7 +9,7 @@ The following permissions can be used to restrict functionality within the plugi
 * **coreprotect.\*** *(default: op)*  
   Allows access to all of the CoreProtect commands.  
   &nbsp;
-* **coreprotect.inspect** *(default: op)*  
+* **coreprotect.inspect** *(default: true)*  
   Allows access to the CoreProtect inspect command.  
   &nbsp;
 * **coreprotect.lookup** *(default: op)*  
